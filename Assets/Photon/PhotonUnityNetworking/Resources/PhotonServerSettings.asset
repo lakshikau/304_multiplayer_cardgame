@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 3cb73053-6b74-4d1b-a867-f77af85a7da3
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 0.0.1
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 1
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: us
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - bid_complete
+  - ClickRpc
+  - deal_cards
+  - DestroyRpc
+  - player_bid
+  - send_shffled_deck
+  - set_game_state
+  - master_play
+  - set_play_round_class
+  - set_trump
+  - start_set_trump
+  - play_card_to_table
+  - set_round_start_plyer
+  - clear_table
+  - show_winning_card_on_table
+  - round_trump_status
+  - set_round_state
+  - reset_round_data
+  - start_master_game_loop
+  - set_dealer_player
+  - set_win_team_points
+  - set_teams
+  - clear_player_area
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 991c9e9cd63fe974089d8e4c177467a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player_area: {instanceID: 0}
+  - cardPreFab: {instanceID: 0}
+  - gameState: {instanceID: 0}
+  - bid_winner_name: {instanceID: 0}
+  - bid_winner_val: {instanceID: 0}
+  - bid_button: {instanceID: 0}
+  - pass_button: {instanceID: 0}
+  - current_bid_display: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
